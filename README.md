@@ -1,9 +1,14 @@
 # FitLiving AI 🏋️‍♂️📺
 
 > A Somali- and English-language workout coach designed for TVs and large displays.
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/ae185375-5765-4094-be9f-bee4f3b5887a" />
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/2897eb91-0206-4b4f-8267-2fbe69c12768" />
-<img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/025842dd-0057-47c0-a11a-92dca461df10" />
+
+<img width="959" height="539" alt="FitLiving AI home dashboard" src="https://github.com/user-attachments/assets/ae185375-5765-4094-be9f-bee4f3b5887a" />
+<img width="959" height="539" alt="FitLiving AI workout screen" src="https://github.com/user-attachments/assets/2897eb91-0206-4b4f-8267-2fbe69c12768" />
+<img width="959" height="419" alt="FitLiving AI progress screen" src="https://github.com/user-attachments/assets/025842dd-0057-47c0-a11a-92dca461df10" />
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Built for: TV and large displays](https://img.shields.io/badge/Built%20for-TV%20%26%20large%20displays-orange.svg)](#tv-remote--keyboard-controls)
+[![Stack: React, TypeScript, MediaPipe](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20MediaPipe-blue.svg)](#architecture--tech-stack)
 
 ---
 
@@ -106,5 +111,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE).
 
 ## Acknowledgments
 
-- **Developer:** Abdirahman Mohamed Abdulle
+- **Developer:** Abdirahman Mohamed
 - Built for the **Build, Ship, Shape: Amazon Developer Hackathon 2026** (Fire TV track).
